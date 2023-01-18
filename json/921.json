@@ -1,0 +1,29 @@
+{
+    "name": "ShiningNeko #921",
+    "description": "None",
+    "image": "https://shiningneko.metatory.co.kr/images/921.png",
+    "dna": "1394bb5d03bb757dede56c27426a221a8cf2eb3e",
+    "date": 1673351958858,
+    "attributes": [
+        {
+            "trait_type": "Body 1",
+            "value": "White"
+        },
+        {
+            "trait_type": "Body 2",
+            "value": "CatBrown"
+        },
+        {
+            "trait_type": "Skin 1",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Skin 2",
+            "value": "Glossy"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "None"
+        }
+    ]
+}

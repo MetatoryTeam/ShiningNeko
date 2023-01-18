@@ -1,0 +1,29 @@
+{
+    "name": "ShiningNeko #532",
+    "description": "None",
+    "image": "https://shiningneko.metatory.co.kr/images/532.png",
+    "dna": "ead1f7edaaea24fe4f23966ce7e37a8e513111a7",
+    "date": 1673764413639,
+    "attributes": [
+        {
+            "trait_type": "Body 1",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Body 2",
+            "value": "Navy"
+        },
+        {
+            "trait_type": "Skin 1",
+            "value": "Glossy"
+        },
+        {
+            "trait_type": "Skin 2",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Silver"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "ShiningNeko #116",
+    "description": "None",
+    "image": "https://shiningneko.metatory.co.kr/images/116.png",
+    "dna": "64d90f6bcc10bf003938658a4c647eadc35cdda3",
+    "date": 1673764304110,
+    "attributes": [
+        {
+            "trait_type": "Body 1",
+            "value": "SkyBlue"
+        },
+        {
+            "trait_type": "Body 2",
+            "value": "CatBrown"
+        },
+        {
+            "trait_type": "Skin 1",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Skin 2",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Silver"
+        }
+    ]
+}

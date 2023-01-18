@@ -1,0 +1,29 @@
+{
+    "name": "ShiningNeko #1000",
+    "description": "None",
+    "image": "https://shiningneko.metatory.co.kr/images/1000.png",
+    "dna": "6daed09ab539f3b1a33ac7ea52f44cf99558528f",
+    "date": 1673764537086,
+    "attributes": [
+        {
+            "trait_type": "Body 1",
+            "value": "legend"
+        },
+        {
+            "trait_type": "Body 2",
+            "value": "legend"
+        },
+        {
+            "trait_type": "Skin 1",
+            "value": "legend"
+        },
+        {
+            "trait_type": "Skin 2",
+            "value": "legend"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "legend"
+        }
+    ]
+}

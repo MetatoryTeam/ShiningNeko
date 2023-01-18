@@ -1,0 +1,29 @@
+{
+    "name": "ShiningNeko #603",
+    "description": "None",
+    "image": "https://shiningneko.metatory.co.kr/images/603.png",
+    "dna": "7677b12688b88355a14c3ea3c65e8c4932ab7f13",
+    "date": 1673764432419,
+    "attributes": [
+        {
+            "trait_type": "Body 1",
+            "value": "GrapeFruit"
+        },
+        {
+            "trait_type": "Body 2",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Skin 1",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Skin 2",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "Silver"
+        }
+    ]
+}

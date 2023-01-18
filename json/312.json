@@ -1,0 +1,29 @@
+{
+    "name": "ShiningNeko #312",
+    "description": "None",
+    "image": "https://shiningneko.metatory.co.kr/images/312.png",
+    "dna": "2283cd20af356d219147c906b891a2a7f2464bca",
+    "date": 1673764355645,
+    "attributes": [
+        {
+            "trait_type": "Body 1",
+            "value": "SkyBlue"
+        },
+        {
+            "trait_type": "Body 2",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Skin 1",
+            "value": "Glossy"
+        },
+        {
+            "trait_type": "Skin 2",
+            "value": "Matte"
+        },
+        {
+            "trait_type": "Crown",
+            "value": "None"
+        }
+    ]
+}
