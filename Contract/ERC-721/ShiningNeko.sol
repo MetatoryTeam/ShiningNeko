@@ -13,15 +13,15 @@ contract ShiningNeko is ERC721, Ownable {
 
     Counters.Counter private _tokenIdCounter;
 
-    constructor() ERC721("Shining Neko", "SNEKO") {}
+    constructor() ERC721("ShiningNeko", "SNK") {}
 
     function _baseURI() internal pure override returns (string memory) {
         return "https://shiningneko.metatory.co.kr/json/";
     }
 
     function safeMint(address to) public onlyOwner {
-        uint256 tokenId = _tokenIdCounter.current();
         _tokenIdCounter.increment();
+        uint256 tokenId = _tokenIdCounter.current();
         _safeMint(to, tokenId);
     }
 
