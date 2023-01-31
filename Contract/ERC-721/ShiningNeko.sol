@@ -1,4 +1,3 @@
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
@@ -13,7 +12,7 @@ contract ShiningNeko is ERC721, Ownable {
 
     Counters.Counter private _tokenIdCounter;
 
-    constructor() ERC721("ShiningNeko", "SNK") {}
+    constructor() ERC721("ShiningNeko", "SNEKO") {}
 
     function _baseURI() internal pure override returns (string memory) {
         return "https://shiningneko.metatory.co.kr/json/";
@@ -35,5 +34,9 @@ contract ShiningNeko is ERC721, Ownable {
         for (uint i = 0; i < amount; i++) {
             safeMint(to);
         }
+    }
+	function withdraw() public payable onlyOwner {
+        (bool success, ) = payable(msg.sender).call{value: address(this).balance}("");
+        require(success);
     }
 }
