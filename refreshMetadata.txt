@@ -1,0 +1,10 @@
+Solution 1
+https://medium.com/web-design-web-developer-magazine/quick-hack-to-refresh-opensea-metadata-on-many-nfts-quickly-6b8a2a52b080
+
+Comment : It doesn't work
+
+Solution 2
+https://www.reddit.com/r/NFT/comments/phdmn5/is_there_a_way_to_mass_refresh_metadata_on_opensea/
+https://www.nftrefreshmetadata.com/
+
+Comment : It works, but I can not access the code. I used this Solution to refresh Metadata
