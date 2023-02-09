@@ -1,7 +1,7 @@
 {
     "name": "ShiningNeko #360",
     "description": "None",
-    "image": "https://shiningneko.metatory.co.kr/images/360.png",
+    "image": "https://shiningneko.metatory.co.kr/reveal/reveal.png",
     "dna": "8123b109fbdc0e0fda97b5b26f87fd285c8faf1b",
     "date": "1691449688888",
     "attributes": [
@@ -25,5 +25,6 @@
             "trait_type": "Crown",
             "value": "None"
         }
-    ]
+    ],
+    "animation_url": "https://shiningneko.metatory.co.kr/reveal/reveal_ticket.mp4"
 }
