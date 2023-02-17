@@ -7,23 +7,23 @@
     "attributes": [
         {
             "trait_type": "Body 1",
-            "value": "SkyBlue"
+            "value": "Unknown"
         },
         {
             "trait_type": "Body 2",
-            "value": "CatBrown"
+            "value": "Unknown"
         },
         {
             "trait_type": "Skin 1",
-            "value": "Glossy"
+            "value": "Unknown"
         },
         {
             "trait_type": "Skin 2",
-            "value": "Matte"
+            "value": "Unknown"
         },
         {
             "trait_type": "Crown",
-            "value": "Gold"
+            "value": "Unknown"
         }
     ],
     "animation_url": "https://shiningneko.metatory.co.kr/reveal/reveal_ticket.mp4"
