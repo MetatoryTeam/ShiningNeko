@@ -1,8 +1,7 @@
 {
     "name": "ShiningNeko #1000",
     "description": "None",
-    "image": "https://shiningneko.metatory.co.kr/reveal/legend.png",
-    "dna": "6daed09ab539f3b1a33ac7ea52f44cf99558528f",
+    "image": "https://shiningneko.metatory.co.kr/reveal/reveal.png",
     "date": "1691449688888",
     "attributes": [
         {
@@ -26,5 +25,5 @@
             "value": "Unknown"
         }
     ],
-    "animation_url": "https://shiningneko.metatory.co.kr/reveal/legend_ticket.mp4"
+    "animation_url": "https://shiningneko.metatory.co.kr/reveal/reveal_ticket.mp4"
 }

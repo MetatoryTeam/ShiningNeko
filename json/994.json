@@ -1,8 +1,7 @@
 {
     "name": "ShiningNeko #994",
     "description": "None",
-    "image": "https://shiningneko.metatory.co.kr/reveal/legend.png",
-    "dna": "753dc08f72cb59f58331fc5328f4cdf2a53eba56",
+    "image": "https://shiningneko.metatory.co.kr/reveal/reveal.png",
     "date": "1691449688888",
     "attributes": [
         {
@@ -26,5 +25,5 @@
             "value": "Unknown"
         }
     ],
-    "animation_url": "https://shiningneko.metatory.co.kr/reveal/legend_ticket.mp4"
+    "animation_url": "https://shiningneko.metatory.co.kr/reveal/reveal_ticket.mp4"
 }
