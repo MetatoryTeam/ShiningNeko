@@ -1,29 +1,48 @@
 {
-    "name": "ShiningNeko #2",
-    "description": "ShiningNeko is a unique and exclusive collection of 1,000 handmade NFTs, featuring a fanciful cat character that exudes elegance and sophistication. Discover the wonders of this enchanting world today.",
-    "image": "https://shiningneko.metatory.co.kr/reveal/reveal.png",
-    "date": "1691449688888",
+    "name": "HoneyJeans #1",
+    "description": "HoneyJeans 🐰 NewJeans Daily Tokki Memes 🐰 👩‍🎨 Unique character art & meme magic ✨ 🌍 Join our fun-loving community 🎉 📩 DM for collaborations & inquiries 💌",
+    "image": "https://raw.githubusercontent.com/ika9810/Honey-Jeans/main/archive/2023-04-04/4.png",
+    "date": "1680706346",
     "attributes": [
         {
-            "trait_type": "Body 1",
-            "value": "Unknown"
+            "trait_type": "Acc",
+            "value": "Laptop"
         },
         {
-            "trait_type": "Body 2",
-            "value": "Unknown"
+            "trait_type": "Background",
+            "value": "WeatheringWithYou"
         },
         {
-            "trait_type": "Skin 1",
-            "value": "Unknown"
+            "trait_type": "Ear",
+            "value": "Tattoo"
         },
         {
-            "trait_type": "Skin 2",
-            "value": "Unknown"
+            "trait_type": "Eyes",
+            "value": "DarkCircles"
         },
         {
-            "trait_type": "Crown",
-            "value": "Unknown"
+            "trait_type": "Hair",
+            "value": "None"
+        },
+        {
+            "trait_type": "Left",
+            "value": "Mcdonalds"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "None"
+        },
+        {
+            "trait_type": "Right",
+            "value": "Ticket"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Slipper"
+        },
+        {
+            "trait_type": "Tshirt",
+            "value": "Tokyo"
         }
-    ],
-    "animation_url": "https://shiningneko.metatory.co.kr/reveal/reveal_ticket.mp4"
+    ]
 }
