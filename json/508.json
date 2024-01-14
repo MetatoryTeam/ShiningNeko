@@ -1,29 +1,29 @@
 {
     "name": "ShiningNeko #508",
     "description": "ShiningNeko is a unique and exclusive collection of 1,000 handmade NFTs, featuring a fanciful cat character that exudes elegance and sophistication. Discover the wonders of this enchanting world today.",
-    "image": "https://shiningneko.metatory.co.kr/reveal/reveal.png",
+    "image": "https://shiningneko.metatory.co.kr/images/508.png",
+    "dna": "a144c53a0622dda9b9ad64119c4778f2f6df67f8",
     "date": "1691449688888",
     "attributes": [
         {
             "trait_type": "Body 1",
-            "value": "Unknown"
+            "value": "Coral"
         },
         {
             "trait_type": "Body 2",
-            "value": "Unknown"
+            "value": "Coral"
         },
         {
             "trait_type": "Skin 1",
-            "value": "Unknown"
+            "value": "Matte"
         },
         {
             "trait_type": "Skin 2",
-            "value": "Unknown"
+            "value": "Matte"
         },
         {
             "trait_type": "Crown",
-            "value": "Unknown"
+            "value": "Silver"
         }
-    ],
-    "animation_url": "https://shiningneko.metatory.co.kr/reveal/reveal_ticket.mp4"
+    ]
 }
